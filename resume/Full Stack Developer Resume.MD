@@ -75,7 +75,7 @@ Junior Full Stack Developer in training with hands-on experience in web developm
 -	Organizing Demos for Automation Testing Team.
 
 *Technical Support Representative*  
-**Present**
+**Aug 2024 to Dec 2025**
 
 - Provide technical support in a global corporate environment.
 - Communicate daily in **English** with international clients.
