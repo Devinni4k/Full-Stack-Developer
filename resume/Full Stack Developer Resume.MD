@@ -62,6 +62,18 @@ Junior Full Stack Developer in training with hands-on experience in web developm
 
 ## Professional Experience
 **Telus International**  
+*Manual Tester*
+**📅 Jan 2026 – Present**
+-	Testing new changes in the apps.
+-	Test cases designed for Smoke testing and regression Testing.
+-	Comparing changes with the Business requirements.
+-	Holding calls with the development team in case of app incidents.
+-	Opening Bugs when the app is not working as expected.
+-	Testing fixes in the apps after a new deployment.
+-	The technologies used were JIRA, SQL server PostgreSQL, Postman.
+-	Once the scenarios are clear, document the manual result to Automate.
+-	Organizing Demos for Automation Testing Team.
+
 *Technical Support Representative*  
 **Present**
 
